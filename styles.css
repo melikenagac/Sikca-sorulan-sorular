@@ -1,0 +1,21 @@
+.accordion-item {
+    border: 1px solid #ea0a2a ;
+    margin-bottom: 3px;
+
+  
+  }
+  
+  .accordion-header {
+    background-color:rgba(234,10,42,0.6500);
+    padding: 0px;
+    cursor: pointer;
+    color: #f7f7f7;
+    width: 50%;
+    border-radius: 4%;
+    
+  }
+  
+  .accordion-content {
+    padding: 10px;
+    display: none;
+  }
